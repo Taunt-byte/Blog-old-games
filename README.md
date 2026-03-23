@@ -54,7 +54,7 @@ Abaixo está uma prévia da aplicação:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/blog-old-games.git
+git clone https://github.com/Taunt-byte/Blog-old-games.git
 ````
 
 2. Acesse a pasta do projeto:
